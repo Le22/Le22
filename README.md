@@ -26,4 +26,4 @@ Je suis **Développeur Frontend React**.
 
 ### Tu peux visiter mon super site personnel de [Développeur Frontend React](https://louisetiennegirard.fr)
 
-Pssst 🤫 tu peut aussi me retrouver sur [LinkedIn](https://www.linkedin.com/in/louis-etienne-girard/), sur [Twitter](https://twitter.com/GirardLouisEt) ou encore sur [Behance](https://www.behance.net/louisetiennegirard/projects)
+Pssst 🤫 tu peux aussi me retrouver sur [LinkedIn](https://www.linkedin.com/in/louis-etienne-girard/), sur [Twitter](https://twitter.com/GirardLouisEt) ou encore sur [Behance](https://www.behance.net/louisetiennegirard/projects)
