@@ -18,7 +18,7 @@ Je suis **Développeur Frontend React**.
 
 ### Mes passions :
 
-`Le dev (bien sur 😉)` `Comprendre le monde de la blockchain ₿` `Aller à la plage 🏖`
+`Le dev (bien sur 😉)` `Comprendre le monde de la blockchain ₿` `Se balader sur le bord de mer 🏖`
 
 ---
 
